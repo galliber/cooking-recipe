@@ -1,0 +1,11 @@
+To get back to login screen, type in: = RETURN
+To show all users, type in: = SHOW_ALL_USERS
+To show my favourite cooks, type in: = SHOW_FAVOURITE_COOKS
+To show my comments, type in: = SHOW_MY_COMMENTS
+To show my recipes, type in: = SHOW_MY_RECIPES
+To show my favourite recipes, type in: = SHOW_FAVOURITE_RECIPES
+To show all categories, type in: = SHOW_ALL_CATEGORIES
+To show recipes by category, type in: = SHOW_RECIPES_BY_CATEGORY
+To add a recipe, type in: = ADD_RECIPE
+To delete a recipe, type in: = DELETE_RECIPE
+To update MyInfo, type in: = UPDATE_USER

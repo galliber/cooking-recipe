@@ -1,0 +1,2 @@
+If you have already registered type in: = LOG_IN
+To create a new user, type in: = SIGN_UP

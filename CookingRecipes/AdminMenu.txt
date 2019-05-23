@@ -1,0 +1,17 @@
+To get back to login screen, type in: = RETURN
+To show all users, type in: = SHOW_ALL_USERS
+To show my comments, type in: = SHOW_MY_COMMENTS
+To show my recipes, type in: = SHOW_MY_RECIPES
+To show all categories, type in: = SHOW_ALL_CATEGORIES
+To show my categories, type in: = SHOW_MY_CATEGORIES
+To add a category, type in: = ADD_CATEGORY
+To delete a category, type in: = DELETE_CATEGORY
+To show recipes by category, type in: = SHOW_RECIPES_BY_CATEGORY
+To add a recipe, type in: = ADD_RECIPE
+To delete a recipe, type in: = DELETE_RECIPE
+To find users by id, type in: = FIND_USERS_BY_ID
+To find users by username, type in: = FIND_USERS_BY_USERNAME
+To delete an user, type in: = DELETE_USER
+To modify an user, type in: = MODIFY_USER
+To save all changes, type in: = SAVE
+To load from a file, type in: = LOAD
